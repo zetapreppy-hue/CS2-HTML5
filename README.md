@@ -1,0 +1,1 @@
+it's a An easy HTML5 CS2 game, single file required, with lots of rounds against bots, 3 different weapons, playable web-based HTML5 game, available on both mobile and PC. This is an enjoyable game that can be played online; the game was created by zetapreppy.
